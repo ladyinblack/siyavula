@@ -1,0 +1,86 @@
+body {
+	font-family: Arial;
+	margin: 10px;
+	font-size: 12pt;
+}
+nav ol {
+	list-style-type: none;
+}
+
+.title {
+	background-color: #9AF;
+}
+
+h1.title {
+	padding: 20px;
+}
+h2.title {
+	padding: 10px;
+}
+
+div .section {
+	margin: 30px;
+}
+figure {
+	text-align: center;
+	padding: 10px;
+}
+figcaption {
+	font-style: italic;
+}
+
+div.note  {
+	background-color: #D3D3D3;
+	padding: 5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+div.visit {
+	background-color: #8F5;
+	padding: 5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+span.glyphicon {
+	border: 2px solid;
+	padding: 3px;
+	border-radius: 25px;
+}
+
+p.centred {
+	text-align: center;
+}
+
+div.mathidentity {
+	background-color: #D3D3D3;
+}
+
+.worked_example {
+	background-color: #90EE90;
+}
+.worked_example span {
+	margin-left: 30px;
+}
+.question, .workstep {
+	padding: 5px;
+}
+
+h3.title {
+	background-color: #5D0;
+	padding: 10px;
+	
+}
+.workstep h4.title {
+	background-color: #90EE90;
+	
+}
+
+.maths {
+	width: 400px;
+	margin: auto;
+}
+.problemset {
+	background-color: #EEE8AA;
+}
